@@ -1,0 +1,57 @@
+{
+	"zerda": {
+		"title": "¿Qué es Abaraska?",
+		"p1": "Somos un colectivo al que nos afecta el problema de la vivienda. Queremos vivir en Donostia de un modo digno y el modelo actual no nos convence.",
+		"p2": "La vivienda es más que un bien material, es un derecho básico. Fija nuestro núcleo afectivo, estabiliza nuestra vida y nos da un sitio en el mundo.",
+		"p3": "El eje de nuestro modelo de vivienda es la organización cooperativa, la propiedad colectiva, el valor de uso de la vivienda y la cooperación entre los miembros.",
+		"p4": "Queremos fomentar un modelo inclusivo, sostenible y no especulativo.",
+		"p5": "Abaraska es un espacio para construir e imaginar el futuro."
+	},
+	"bestelakobizieredu": {
+		"title": "Otro modelo de vida",
+		"p1": "El modelo de vida individualista actual no tiene en cuenta las necesidades básicas. Queremos compartir más aspectos de nuestra vida sin renunciar a la intimidad y a la privacidad.",
+		"p2": "La vivienda puede ser un espacio para entender y trabajar los cuidados, la economía del tiempo, la economía reproductiva y otros muchos aspectos de un modo político.",
+		"p3": "Queremos que los vecinos sean una red de apoyo."
+	},
+	"jabetzakolektiboa": {
+		"title": "Propiedad colectiva y valor de uso",
+		"p1": "Entendemos la tierra como un bien público y reivindicamos el derecho de uso. A diferencia de la propiedad privada, en nuestro modelo la cooperativa sería la dueña de edificio y no el individuo."
+	},
+	"puntuak": {
+		"erabileralagapena_title": "Cesión de uso",
+		"erabileralagapena": "La cooperativa es la dueña de la casa. Los habitantes tienen derecho a uso, pero no pueden especular con la vivienda.",
+		"bizikidetza_title": "Convivencia",
+		"bizikidetza": "La vivienda tendrá espacios comunes para sacar el máximo provecho a los recursos y para fomentar la convivencia.",
+		"arkitekturajasangarria_title": "Arquitectura sostenible",
+		"arkitekturajasangarria": "Los espacios se tienen que adaptar a las necesidades de los usuario y no al revés. Impulsaremos una arquitectura basada en la bioconstrucción.",
+		"auzoa_title": "El barrio",
+		"auzoa": "La vivienda no es un espacio aislado. Como es parte de un entorno, dará al barrio y recibirá de este.",
+		"finantziazioa_title": "Financiación",
+		"finantziazioa": "Para financiar el proyecto utilizaremos la economía solidaria, las finanzas éticas, aportaciones individuales y de entidades.",
+		"arkitekturaproiektua_title": "Proyectos similares",
+		"arkitekturaproiektua": "No estamos inventando nada, ya hay proyectos de vivienda parecidos. En Barcelona La Borda, en Madrid Entrepatios, el modelo Andel en Dinamarca y sin ir muy lejos el proyecto Egunsentian de Bilbao."
+	},
+	"partehartu": {
+		"title": "¡Participa!",
+		"p1": "Si tienes interés en el proyecto, escríbenos."
+	},
+	"etxeahankazgora": {
+		"title1": "¡La casa patas arriba!",
+		"title2": "Ciudad, casa y vida en común desde el feminismo",
+		"nonNoiz": "19-20 Diciembre - Casa de Mujeres de Donostia",
+		"p1":"Esto es una invitación para poner la casa patas arriba. Poner la casa patas arriba, sacudir todo lo que guardamos debajo de la alfombra y abrir las ventanas para que entre aire fresco.",
+		"p2":"Queremos que estas jornadas sean una parada para reflexionar colectivamente sobre urbanismo, vivienda y vida en común. La intención es que entre todas busquemos respuestas a las preguntas que nos hacemos.",
+		"p3":"Así, este año vamos a analizar la ciudad, la casa y la convivencia desde una perspectiva feminista.",
+		"p4":"En una primera sesión, La casa en la ciudad, pondremos el foco en la separación artificial que hacemos entre la calle y la casa, lo público y lo privado. Cómo se organizan las ciudades y hasta qué punto se tienen en cuenta las necesidades de los cuerpos que las habitamos.",
+		"p5":"Después, en la sesión Nosotras en casa, nos detendremos en la cuestión de la vida en común. ¿Cómo vamos a poner en práctica los cuidados y las redes de apoyo necesarias como consecuencia de nuestra interdependencia? ¿Cómo queremos dividir los espacios y las actividades? ¿Qué herramientas podemos crear para la buena salud del colectivo (toma de decisiones, que haya espacio para todas las voces, aceptar los desacuerdos, gestionar los conflictos, favorecer los cuidados...)?",
+		"p6":"En definitiva, queremos poner la casa patas arriba para entender, cuestionar y transformar nuestras formas de relacionarnos desde lo colectivo.  Conocer otras experiencias de convivencia para hacer frente al modelo capitalista y heteropatriarcal de la familia nuclear y construir alternativas.",
+		"p7":"Poner la vida patas arriba para ponerla en el centro.",
+		"p8":"Bizi-lagunak izan nahi dugulako!",
+		"apuntatzeko": "Para reservar plaza, escribir un correo a info@abaraskaetxea.eus"
+	},
+	"txostoia": {
+		"title1": "Un proyecto de vivienda cooperativa en Donostia",
+		"p1": "Este es un trabajo en el que hemos estado trabajando durante mucho tiempo y hemos puesto mucho esfuerzo para explicar de quienes somos, que queremos y como lo queremos.",
+		"p2": "Esperemos que os guste."
+	}
+}
