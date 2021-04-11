@@ -6,8 +6,8 @@
           <p v-html="$t('txostoia.p2')" ></p>
       </div>
       <div class="pdf-kontenedora">
-            <object class="pdf" data="src/assets/pdf/AbaraskaWEB.pdf" type="application/pdf">
-                alt : <a href="src/assets/pdf/AbaraskaWEB.pdf">AbaraskaWEB.pdf</a>
+            <object class="pdf" data="../../static/AbaraskaWEB.pdf" type="application/pdf">
+                alt : <a href="../../static/AbaraskaWEB.pdf">AbaraskaWEB.pdf</a>
            </object>
       </div>
   </div>
@@ -47,7 +47,7 @@ export default {
     display: block;
     margin: 0 auto;
     min-height: 750px;
- } 
+ }
  h2{
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -89,7 +89,7 @@ export default {
     display: block;
     margin: 0 auto;
     min-height: 750px;
- } 
+ }
  h2{
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -131,7 +131,7 @@ export default {
     display: block;
     margin: 0 auto;
     min-height: 750px;
- } 
+ }
  h2{
     font-family: 'Roboto', sans-serif;
     text-align: center;
