@@ -6,8 +6,8 @@
           <p v-html="$t('txostoia.p2')" ></p>
       </div>
       <div class="pdf-kontenedora">
-            <object class="pdf" data="../../static/AbaraskaWEB.pdf" type="application/pdf">
-                alt : <a href="../../static/AbaraskaWEB.pdf">AbaraskaWEB.pdf</a>
+            <object class="pdf" data="/static/AbaraskaWEB.pdf" type="application/pdf">
+                alt : <a href="/static/AbaraskaWEB.pdf">AbaraskaWEB.pdf</a>
            </object>
       </div>
   </div>
